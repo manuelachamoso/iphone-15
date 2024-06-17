@@ -42,6 +42,8 @@ Welcome to the Apple Website clone for the iPhone 15 Pro! This project replicate
     http://localhost:3000
     ```
 
+🔗 **Live Preview**: [View the live project here](https://iphone-15-lilac.vercel.app/)
+
 ## Contributing 🤝
 Contributions are welcome! Fork the repository and submit a pull request with your improvements.
 
